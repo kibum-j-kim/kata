@@ -1,0 +1,13 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vitest": "^3.2.4"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "type": "module"
+}
